@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "repository": "byteplus.api",
+  "providerType": "api",
+  "id": "api_byteplus",
+  "title": "BytePlus ModelArk",
+  "protocol": "openai",
+  "baseUrl": "https://ark.ap-southeast.bytepluses.com/api/v3",
+  "setupInstructions": "Enter a ModelArk API key and the model or inference endpoint ID from your project."
+}
